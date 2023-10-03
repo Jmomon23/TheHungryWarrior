@@ -3,9 +3,11 @@ Introduction
 Welcome to the Hungry Knight coding game! This README.md file will provide you with all the information you need to understand the game, its methodology, and the results achieved. Hungry Knight is a challenging coding game that tests your problem-solving skills and coding abilities.
 
 Game Description
+
 Hungry Knight is a classic game where you control a knight who is on a quest to collect as many treasures as possible while avoiding obstacles and enemies. The knight is always hungry and needs to eat food to keep moving. Your task is to write code that controls the knight's movements, ensuring it collects treasures, avoids obstacles, and defeats enemies.
 
 Methodology
+
 To play Hungry Knight, you need to understand the game mechanics and write code to control the knight's actions. Here's a step-by-step guide on how to approach the game:
 
 Understanding the Game Map: The game is played on a grid-based map. You will receive information about the current state of the map, including the knight's position, the location of treasures, obstacles, and enemies.
