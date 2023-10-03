@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to the Hungry Knight coding game! This README.md file will provide you with all the information you need to understand the game, its methodology, and the results achieved. Hungry Knight is a challenging coding game that tests your problem-solving skills and coding abilities.
 
 Game Description
